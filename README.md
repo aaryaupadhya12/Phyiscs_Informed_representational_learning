@@ -14,7 +14,7 @@
 ---
 
 ## Project Title
-**Physics-Informed Disentangled Representations for Uncertainty-Aware Chest CT Analysis: A Rigorous Hypothesis-Driven Study on Pneumonia Detection**
+**Physics-Informed Disentangled Representations for Uncertainty-Aware Chest CT Analysis**
 
 ---
 
